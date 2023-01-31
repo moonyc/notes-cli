@@ -1,6 +1,6 @@
 console.log('ultis.js')
 
-const name = 'Piccino'
+const name = 'Sasha'
 
 const add = function(a, b) {
     return a + b
